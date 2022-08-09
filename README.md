@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-11104
-Fork on GitHub
-2800
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Naufal!</h1>
 <h3 align="center">A passionate college student, majoring in Computer Engineering.</h3>
 
